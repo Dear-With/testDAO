@@ -1,0 +1,29 @@
+body {
+      background: #eef4f7;
+      color: #4d4f50;
+      font-family: Google Sans;
+
+}
+header{
+      background: #6ddec6;
+      display: flex;
+      color: white;
+      margin:-10px;
+}
+a {
+      color: white;
+}
+#top {
+      background-image: url(実際のサンプリタ地方.png);
+      height: 400px;
+      text-align: center;
+      color: white;
+}
+button {
+      background: #6ddec6;
+      color: white;
+      height: 40px;
+      width: 300px;
+      border: 0px;
+      border-radius: 10px;
+}
